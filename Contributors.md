@@ -204,6 +204,7 @@ aalbusoiu
 - [Kalana Wijethunga](https://github.com/kelvinromero)
 - [Kirk Clemons](https://github.com/kcclemo)
 - [Thomas Abbott] (https://github.com/abbotttp)
+- [Harrison Quarry](https://github.com/harrykin)
 - [Jennifer Mitchell](https://github.com/jennwmitchell)
 - [Bülent Tugrul Yüksel](https://github.com/kdan-96)
 - [Jaibhav Thukral](https://github.com/jaibhav)
